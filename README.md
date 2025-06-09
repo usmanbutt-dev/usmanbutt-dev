@@ -25,8 +25,8 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-butt-dev/)
 
 ## 📊 GitHub Stats:
-![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadUsmanButt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadUsmanButt&layout=compact&theme=radical)
+![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanbutt-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbutt-dev&layout=compact&theme=radical)
 
 ## 🔝 Featured Projects:
 
