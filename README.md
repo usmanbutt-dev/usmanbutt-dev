@@ -33,13 +33,14 @@
 ![Usman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usmanbutt-dev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbutt-dev&layout=compact&theme=radical)
 
-## 🔝 Featured Projects:
+## 🔝 Featured Projects
 
-| Project | Description |
-|--------|-------------|
-| 🌐 **Firebase Multiplayer WebGL Game** | 2D game with registration, login, chat, and multiplayer functionality using Firebase Realtime Database |
-| 🧠 **Fruit Disease Prediction ML** | Beginner ML project using image classification to detect fruit diseases |
-| 🛠️ **Photon VR Multiplayer Template** | Multiplayer VR setup in Unity using Photon PUN 2 and VR Interaction Framework |
+| 💼 **Project**                          | 📝 **Description** |
+|----------------------------------------|---------------------|
+| 🌐 **Open-Source Inventory System**    | 🧩 Developed a modular and extensible inventory system in Unity, designed for use in both 2D and 3D games. Released on GitHub to support open-source collaboration and community enhancements. |
+| 🎯 **Multiplayer VR Shooter Prototype** | 🔫 Built a networked VR shooter using Photon PUN 2, featuring real-time shooting, synced health systems, and smooth multiplayer movement. |
+| ⚽ **VR Soccer Game**                   | 🗣️ Designed multiplayer gameplay with Photon Voice for real-time communication. Integrated VRIF and Final IK to achieve immersive controls and full-body avatar interactions. |
+
 
 ---
 
