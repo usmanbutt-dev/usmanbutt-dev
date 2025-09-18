@@ -4,11 +4,12 @@
 - 🎓 CS Student at **University of Management and Technology (UMT)**  
 - 💻 **Unity Game Developer** with **2+ years of experience**  
 - 🕶️ Specialized in **VR Development**, **Multiplayer Games**, and **Immersive 3D Experiences**  
-- 🤖 **AI, Agents & Automation Enthusiast** — exploring how **LLMs, AI APIs, and agents** can be integrated into games & productivity tools  
+- 🤖 **AI, Agents & Automation Enthusiast** — exploring how **LLMs, AI APIs, MCPs, and agents** can be integrated into games & productivity tools  
+- 📦 Experimenting with **AnythingLLM**, **RAG pipelines**, and **OpenWebUI** to build personalized AI assistants and dev tools  
 - 🐳 Comfortable working with **Docker** for environment setup and reproducibility  
 - 🔥 Skilled at integrating: **Photon PUN 2**, **Final IK**, **Firebase**, **VR Interaction Framework (VRIF)**  
 - 🚀 Passionate about **XR, AI + Games**, and **workflow automation**  
-- 🎯 Currently learning: **Unity DOTS**, **multiplayer architecture**, **LLM-powered agents**, and **AI-driven NPCs**  
+- 🎯 Currently learning: **Unity DOTS**, **multiplayer architecture**, **LLM-powered agents**, **MCP server design**, and **AI-driven NPCs**  
 - 🤝 Open to **internships, freelance opportunities, or research collaborations**  
 - 💬 Fun fact: *I love combining game dev + AI to push the limits of interactivity.*  
 
@@ -40,8 +41,12 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)  
 ![LLMs](https://img.shields.io/badge/LLMs-FF5733?style=for-the-badge)  
+![RAG](https://img.shields.io/badge/RAG-008080?style=for-the-badge)  
 ![Agents](https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge)  
 ![Automation](https://img.shields.io/badge/Automation-FFD700?style=for-the-badge)  
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-000000?style=for-the-badge&logo=ai&logoColor=white)  
+![OpenWebUI](https://img.shields.io/badge/OpenWebUI-0066FF?style=for-the-badge&logo=web&logoColor=white)  
+![MCPs](https://img.shields.io/badge/MCPs-6A5ACD?style=for-the-badge)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
 <br>  
@@ -77,14 +82,16 @@
 | 🎯 **Multiplayer VR Shooter Prototype** | 🔫 Real-time VR shooter with Photon PUN 2: synced shooting, health, and smooth multiplayer movement. |
 | ⚽ **VR Soccer Game**                   | 🗣️ Multiplayer VR soccer with Photon Voice for live communication + VRIF & Final IK for full-body immersion. |
 | 🤖 **AI-Powered Unity Assistant**       | 🧠 Experimental project using **LLMs + Unity Editor scripting** to generate assets, automate tasks, and boost dev productivity. |
-| 🛠️ **Dockerized AI Agent Playground**  | 🐳 Containerized environment for experimenting with LLM-based agents and automation workflows. |  
+| 🛠️ **Dockerized AI Agent Playground**  | 🐳 Containerized environment for experimenting with LLM-based agents, MCPs, and automation workflows. |
+| 📦 **Ollama + AnythingLLM + OpenWebUI Setup**   | 🔗 Configured **AnythingLLM** and **OpenWebUI** + **Ollama** for local/private LLM and RAG experimentation. |  
 
 ---
 
 ## 🚀 What’s Next?  
 - Integrating **AI-powered agents into VR multiplayer**  
 - Building **LLM-driven NPCs** that adapt to player actions  
-- Exploring **AI for procedural generation** (quests, maps, dialogues)  
+- Developing **custom MCP servers** for AI-driven workflows  
+- Exploring **RAG-based AI systems** for knowledge-intensive VR games  
 - Contributing to **open-source AI + XR frameworks**  
 
 ---
@@ -92,4 +99,4 @@
 ## 📫 Connect with Me  
 - 🔗 [GitHub](https://github.com/usmanbutt-dev)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/usmanbutt-dev/)  
-- 📧 **Email**: buttu7666@gmail.com  
+- 📧 **Email**: buttu7666gmail.com  
