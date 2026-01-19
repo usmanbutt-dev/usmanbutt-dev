@@ -119,10 +119,6 @@ fun_fact: "I love combining game dev + AI to push the limits of interactivity!"
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=usmanbutt-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanbutt-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
 </div>
 
