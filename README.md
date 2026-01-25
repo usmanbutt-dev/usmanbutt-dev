@@ -153,7 +153,7 @@ fun_fact: "I love combining game dev + AI to push the limits of interactivity!"
 | **⭐ [antigravity-unity](https://github.com/usmanbutt-dev/antigravity-unity)** | Unity package integrating Google Antigravity IDE as external code editor | `Unity` `C#` `Editor Tools` |
 | **🔌 [unity-mcp](https://github.com/usmanbutt-dev/unity-mcp)** | MCP Server for AI agent integration with Unity Editor | `MCP` `LLM` `Unity` |
 | **📦 [UnityModularInventorySystem](https://github.com/usmanbutt-dev/UnityModularInventorySystem)** | Open-source modular inventory system for 2D/3D games | `Unity` `C#` `Open Source` |
-| **� Dockerized AI Agent Playground** | Containerized environment for LLM-based agents & MCPs | `Docker` `LLMs` `RAG` |
+| **🐳 Dockerized AI Agent Playground** | Containerized environment for LLM-based agents & MCPs | `Docker` `LLMs` `RAG` |
 | **📺 [LibreTube](https://github.com/usmanbutt-dev/LibreTube)** | Alternative YouTube frontend for Android (contributor) | `Kotlin` `Android` |
 
 
