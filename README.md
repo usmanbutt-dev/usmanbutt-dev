@@ -132,17 +132,17 @@ fun_fact: "I love combining game dev + AI to push the limits of interactivity!"
 |:--------|:------------|:-----------|
 | **👻 FYP - Multiplayer Horror Game** | Final Year Project: Story-driven multiplayer horror game with real-time co-op | `Unity` `Netcode` `C#` |
 | **🃏 [Card Game Suite](https://github.com/usmanbutt-dev/CardGame)** | 2D mobile app with 5 classic games - FreeCell, Klondike, Spider, RummyKub & Ludo. Features auth, leaderboards, IAP & ads | `Unity` `Firebase` `PlayFab` |
-| **🌌 [Axis-Veil](https://github.com/usmanbutt-dev/Axis-Veil)** | Story-driven 3D puzzle RPG in a gravity-fractured world with inversion powers | `Unity` `C#` `3D` |
-| **🔫 Multiplayer VR Shooter** | Real-time VR shooter with synced shooting, health & movement | `Photon PUN2` `VR` `VRIF` |
-| **⚽ VR Soccer Game** | Multiplayer VR soccer with voice chat & full-body IK | `VRIF` `Final IK` `Photon Voice` |
-| **🔥 Fire Fighting VR** | VR fire emergency training simulation | `Unity` `VR` `Meta SDK` |
-| **🎱 Pool Game** | 3D billiards game with realistic physics | `Unity` `C#` |
+| **🏃 [Endless-Runner](https://github.com/usmanbutt-dev/Endless-Runner)** | Classic endless runner game | `Unity` `JavaScript` |
+| **🎾 [Pong](https://github.com/usmanbutt-dev/Pong)** | Classic 2D Pong game | `Unity` `C#` |
 
 ### 🕶️ VR / AR Projects
 
 | Project | Description | Tech Stack |
 |:--------|:------------|:-----------|
 | **🖼️ [VR-DepthAPI-Gallery](https://github.com/usmanbutt-dev/VR-DepthAPI-Gallery)** | Immersive VR gallery with Meta's Depth API for realistic occlusion | `Unity` `Meta SDK` `Depth API` |
+| **🔫 Multiplayer VR Shooter** | Real-time VR shooter with synced shooting, health & movement | `Photon PUN2` `VR` `VRIF` |
+| **⚽ VR Soccer Game** | Multiplayer VR soccer with voice chat & full-body IK | `VRIF` `Final IK` `Photon Voice` |
+| **🔥 Fire Fighting VR** | VR fire emergency training simulation | `Unity` `VR` `Meta SDK` |
 | **🏺 [Jar-AR](https://github.com/usmanbutt-dev/Jar-AR) / [Web-AR-Jar](https://github.com/usmanbutt-dev/Web-AR-Jar)** | AR visualization for product display | `Vuforia` `WebXR` `A-Frame` |
 | **👕 [Virtual Try-On](https://github.com/usmanbutt-dev/virtual-try-on)** | AR-based virtual clothing try-on experience | `AR` `Web` |
 
@@ -156,21 +156,6 @@ fun_fact: "I love combining game dev + AI to push the limits of interactivity!"
 | **� Dockerized AI Agent Playground** | Containerized environment for LLM-based agents & MCPs | `Docker` `LLMs` `RAG` |
 | **📺 [LibreTube](https://github.com/usmanbutt-dev/LibreTube)** | Alternative YouTube frontend for Android (contributor) | `Kotlin` `Android` |
 
-### ⚡ Parallel & High-Performance Computing
-
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **🔥 [PDC-CCP-Heat-Equation-Solver](https://github.com/usmanbutt-dev/PDC-CCP-Heat-Equation-Solver)** | Parallel heat equation solver using multiple paradigms | `OpenMP` `MPI` `CUDA` `C++` |
-| **🚚 Logistic Simulation** | Supply chain & logistics simulation | `Unity` `C#` |
-
-### 🌐 Web & Other
-
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **🎯 [Click-n-Code](https://github.com/usmanbutt-dev/Click--n--Code)** | Clicker game built in Unity (2D & 3D versions) | `Unity` `C#` |
-| **🍳 [Cooking-Game](https://github.com/usmanbutt-dev/Cooking-Game)** | Cooking simulation game | `Unity` `C#` |
-| **🏃 [Endless-Runner](https://github.com/usmanbutt-dev/Endless-Runner)** | Classic endless runner game | `Unity` `JavaScript` |
-| **🎾 [Pong](https://github.com/usmanbutt-dev/Pong)** | Classic 2D Pong game | `Unity` `C#` |
 
 ---
 
