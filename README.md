@@ -1,198 +1,123 @@
-<div align="center">
-  
-# Hey there! I'm Muhammad Usman Butt 👋
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Unity+Game+Developer+%7C+VR+Specialist;AI+%26+LLM+Enthusiast;Multiplayer+%26+XR+Systems+Builder;Building+the+Future+of+Interactive+Tech)](https://git.io/typing-svg)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=140&section=header&text=Muhammad%20Usman%20Butt&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  
-[![GitHub followers](https://img.shields.io/github/followers/usmanbutt-dev?logo=GitHub&style=for-the-badge&color=00d9ff)](https://github.com/usmanbutt-dev)
-[![GitHub Stars](https://img.shields.io/github/stars/usmanbutt-dev?logo=github&style=for-the-badge&color=yellow)](https://github.com/usmanbutt-dev)
-[![Profile Views](https://komarev.com/ghpvc/?username=usmanbutt-dev&color=00d9ff&style=for-the-badge)](https://github.com/usmanbutt-dev)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=560&lines=Unity+Game+Developer+%7C+VR+Specialist;AI+%26+LLM+Enthusiast;Multiplayer+%26+XR+Systems+Builder;Building+the+Future+of+Interactive+Tech)](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/usmanbutt-dev?logo=GitHub&style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/usmanbutt-dev)
+&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/usmanbutt-dev?logo=github&style=flat-square&color=ffd700&labelColor=0d1117)](https://github.com/usmanbutt-dev)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=usmanbutt-dev&color=00d9ff&style=flat-square&label=profile+views)](https://github.com/usmanbutt-dev)
 
 </div>
 
 ---
 
-## 🎮 About Me
+## 👋 About Me
 
-```yaml
-name: Muhammad Usman Butt
-located_in: Pakistan
-university: University of Management and Technology (UMT)
-role: CS Student | Unity Game Developer | VR Specialist
+CS student at **University of Management and Technology (UMT)**, Lahore — building at the intersection of real-time game systems, VR/XR, and agentic AI.
 
-fields_of_interest:
-  - "🕶️ Virtual Reality & XR Development"
-  - "🎮 Real-time Multiplayer Games"
-  - "🤖 AI, LLMs & Agentic Systems"
-  - "⚡ Workflow Automation"
-  
-currently_learning:
-  - "Unity DOTS & ECS Architecture"
-  - "LLM-Powered Agents & MCP Servers"
-  - "AI-Driven NPC Behaviors"
-  - "Advanced Multiplayer Architecture"
-  
-fun_fact: "I love combining game dev + AI to push the limits of interactivity!"
-```
+- 🕶️ **Speciality:** Unity VR & multiplayer XR development
+- 🤖 **Exploring:** LLM-powered agents, MCP servers, AI-driven NPCs
+- 🎮 **Currently:** Building AI-integrated game experiences
+- 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/usmanbutt-dev/) · [Email](mailto:buttu7666@gmail.com)
 
-<div align="center">
-
-### 💼 Open to **Internships**, **Freelance Projects** & **Research Collaborations**
-
-</div>
+> 💼 Open to **internships**, **freelance projects** & **research collaborations**
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-<details open>
-<summary><b>🧠 Languages</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,kotlin,js,html,css" />
-</p>
-</details>
+**Languages**
 
-<details open>
-<summary><b>🎮 Game Development & XR</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,blender" />
-  <br><br>
-  <img src="https://img.shields.io/badge/VRIF-6A0DAD?style=for-the-badge&logo=vr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Final_IK-F28C28?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Meta_XR_SDK-1C1E20?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vuforia_AR-009639?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unity_Netcode-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
-</details>
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 
-<details open>
-<summary><b>🤖 AI, Agents & Automation</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-00CED1?style=for-the-badge" />
-  <br><br>
-  <img src="https://img.shields.io/badge/AI_Agents-2E8B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MCP_Servers-6A5ACD?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white" />
-  <img src="https://img.shields.io/badge/AnythingLLM-1a1a2e?style=for-the-badge" />
-</p>
-</details>
+**Game Development & XR**
 
-<details open>
-<summary><b>🌐 Multiplayer & Cloud</b></summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Photon_PUN2-00BFFF?style=for-the-badge&logo=photon&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photon_Voice-4169E1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unity_Netcode-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://img.shields.io/badge/PlayFab-FF6F00?style=for-the-badge&logo=microsoft&logoColor=white" />
-</p>
-</details>
+[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)](#)
+[![Meta XR SDK](https://img.shields.io/badge/Meta_XR_SDK-1C1E20?style=flat-square&logo=meta&logoColor=white)](#)
+[![Vuforia](https://img.shields.io/badge/Vuforia_AR-009639?style=flat-square&logoColor=white)](#)
 
-<details open>
-<summary><b>🛠️ Tools & DevOps</b></summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,notion" />
-</p>
-</details>
+**AI, Agents & Automation**
 
----
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)](#)
+[![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)](#)
+[![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)](#)
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)](#)
+[![AI Agents](https://img.shields.io/badge/AI_Agents-2E8B57?style=flat-square)](#)
+[![MCP Servers](https://img.shields.io/badge/MCP_Servers-6A5ACD?style=flat-square)](#)
 
-## 📊 GitHub Analytics
+**Multiplayer & Cloud**
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usmanbutt-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbutt-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-</div>
+[![Unity Netcode](https://img.shields.io/badge/Unity_Netcode-000000?style=flat-square&logo=unity&logoColor=white)](#)
+[![Photon](https://img.shields.io/badge/Photon-00BFFF?style=flat-square&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](#)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanbutt-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true" width="100%"/>
-</div>
+**Tools & DevOps**
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![Antigravity IDE](https://img.shields.io/badge/Antigravity_IDE-0A0A0A?style=flat-square&logo=google&logoColor=white)](#)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Games & Interactive Experiences
-
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **👻 FYP - Multiplayer Horror Game** | Final Year Project: Story-driven multiplayer horror game with real-time co-op | `Unity` `Netcode` `C#` |
-| **🃏 [Card Game Suite](https://github.com/usmanbutt-dev/CardGame)** | 2D mobile app with 5 classic games - FreeCell, Klondike, Spider, RummyKub & Ludo. Features auth, leaderboards, IAP & ads | `Unity` `Firebase` `PlayFab` |
-| **🏃 [Endless-Runner](https://github.com/usmanbutt-dev/Endless-Runner)** | Classic endless runner game | `Unity` `JavaScript` |
-| **🎾 [Pong](https://github.com/usmanbutt-dev/Pong)** | Classic 2D Pong game | `Unity` `C#` |
-
-### 🕶️ VR / AR Projects
-
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **🖼️ [VR-DepthAPI-Gallery](https://github.com/usmanbutt-dev/VR-DepthAPI-Gallery)** | Immersive VR gallery with Meta's Depth API for realistic occlusion | `Unity` `Meta SDK` `Depth API` |
-| **🔫 Multiplayer VR Shooter** | Real-time VR shooter with synced shooting, health & movement | `Photon PUN2` `VR` `VRIF` |
-| **⚽ VR Soccer Game** | Multiplayer VR soccer with voice chat & full-body IK | `VRIF` `Final IK` `Photon Voice` |
-| **🔥 Fire Fighting VR** | VR fire emergency training simulation | `Unity` `VR` `Meta SDK` |
-| **🏺 [Jar-AR](https://github.com/usmanbutt-dev/Jar-AR) / [Web-AR-Jar](https://github.com/usmanbutt-dev/Web-AR-Jar)** | AR visualization for product display | `Vuforia` `WebXR` `A-Frame` |
-| **👕 [Virtual Try-On](https://github.com/usmanbutt-dev/virtual-try-on)** | AR-based virtual clothing try-on experience | `AR` `Web` |
-
 ### 🤖 AI & Developer Tools
 
-| Project | Description | Tech Stack |
-|:--------|:------------|:-----------|
-| **⭐ [antigravity-unity](https://github.com/usmanbutt-dev/antigravity-unity)** | Unity package integrating Google Antigravity IDE as external code editor | `Unity` `C#` `Editor Tools` |
-| **🔌 [unity-mcp](https://github.com/usmanbutt-dev/unity-mcp)** | MCP Server for AI agent integration with Unity Editor | `MCP` `LLM` `Unity` |
-| **📦 [UnityModularInventorySystem](https://github.com/usmanbutt-dev/UnityModularInventorySystem)** | Open-source modular inventory system for 2D/3D games | `Unity` `C#` `Open Source` |
-| **🐳 Dockerized AI Agent Playground** | Containerized environment for LLM-based agents & MCPs | `Docker` `LLMs` `RAG` |
-| **📺 [LibreTube](https://github.com/usmanbutt-dev/LibreTube)** | Alternative YouTube frontend for Android (contributor) | `Kotlin` `Android` |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**antigravity-unity**](https://github.com/usmanbutt-dev/antigravity-unity) | Unity package integrating Google Antigravity IDE as an external code editor | `Unity` `C#` `Editor Tools` |
+| [**UnityModularInventorySystem**](https://github.com/usmanbutt-dev/UnityModularInventorySystem) | Open-source modular inventory system for 2D/3D Unity games | `Unity` `C#` `Open Source` |
 
+### 🕶️ VR / XR Experiences
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **Multiplayer VR Shooter** | Real-time VR shooter with synced shooting, health & player movement | `Unity` `VRIF` `Photon` |
+| **VR Soccer Game** | Multiplayer VR soccer with voice chat & full-body inverse kinematics | `Unity` `VRIF` `Final IK` `Photon` |
+
+### 🎮 Games
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| **FYP — Multiplayer Horror Game** | Story-driven multiplayer horror with real-time co-op (Final Year Project) | `Unity` `Netcode` `C#` |
+| [**Card Game Suite**](https://github.com/usmanbutt-dev/CardGame) | 5 classic card games in one mobile app — FreeCell, Klondike, Spider, RummyKub & Ludo — with auth, leaderboards, IAP & ads | `Unity` `Firebase` `PlayFab` |
+| [**Endless Runner**](https://github.com/usmanbutt-dev/Endless-Runner) | Classic endless runner game | `Unity` `C#` |
+| [**Pong**](https://github.com/usmanbutt-dev/Pong) | Classic 2D Pong rebuilt in Unity | `Unity` `C#` |
 
 ---
 
-## 🎯 What's Next?
+## 📊 GitHub Activity
 
 <div align="center">
-
-```
-🔮 Integrating AI-powered agents into VR multiplayer experiences
-🧠 Building LLM-driven NPCs that adapt to player actions in real-time  
-🔌 Developing custom MCP servers for AI-driven game dev workflows
-📚 Exploring RAG-based AI systems for knowledge-intensive VR games
-🌍 Contributing to open-source AI + XR frameworks
-```
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=usmanbutt-dev&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true&hide_border=true&radius=8" width="100%"/>
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Connect
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmanbutt-dev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usmanbutt-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usmanbutt-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:buttu7666@gmail.com)
 
 </div>
 
----
-
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-### 💫 *"Building immersive worlds where AI meets reality"*
 
 ![Snake animation](https://raw.githubusercontent.com/usmanbutt-dev/usmanbutt-dev/output/github-contribution-grid-snake-dark.svg)
 
+*"Building immersive worlds where AI meets reality"*
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
