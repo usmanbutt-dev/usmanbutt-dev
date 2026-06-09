@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=560&lines=Unity+Game+Developer+%7C+VR+Specialist;AI+%26+LLM+Enthusiast;Multiplayer+%26+XR+Systems+Builder;Building+the+Future+of+Interactive+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&random=false&width=620&lines=React+Native+%26+Mobile+App+Developer;Full-Stack+Mobile+%7C+React+Native+%2B+Node.js+%2B+MongoDB;Software+Engineer+%7C+Unity+%26+XR+Developer;AI+%26+LLM+Integration+Specialist)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/usmanbutt-dev?logo=GitHub&style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/usmanbutt-dev)
 &nbsp;
@@ -16,18 +16,26 @@
 
 ## 👋 About Me
 
-CS student at **University of Management and Technology (UMT)**, Lahore — building at the intersection of real-time game systems, VR/XR, and agentic AI.
+CS student at **University of Management and Technology (UMT)**, Lahore, and a practicing Software Engineer — currently focused on building polished, production-quality React Native apps while bringing a strong foundation in real-time systems, XR, and agentic AI.
 
-- 🕶️ **Speciality:** Unity VR & multiplayer XR development
-- 🤖 **Exploring:** LLM-powered agents, MCP servers, AI-driven NPCs
-- 🎮 **Currently:** Building AI-integrated game experiences
+- 📱 **Building:** Cross-platform mobile apps with React Native, Expo, and a Node.js + MongoDB backend
+- 🧠 **Approach:** TypeScript-first, performance-aware, and obsessive about UX details
+- 🕶️ **Background:** Unity VR & multiplayer XR — strong on real-time systems and 3D
 - 📬 **Reach me:** [LinkedIn](https://www.linkedin.com/in/usmanbutt-dev/) · [Email](mailto:buttu7666@gmail.com)
 
-> 💼 Open to **internships**, **freelance projects** & **research collaborations**
+> 💼 Open to **React Native roles**, **freelance projects** & **research collaborations**
 
 ---
 
 ## 🛠️ Tech Stack
+
+**Mobile & Full-Stack**
+
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)](#)
+[![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](#)
 
 **Languages**
 
@@ -68,6 +76,25 @@ CS student at **University of Management and Technology (UMT)**, Lahore — buil
 ---
 
 ## 🚀 Featured Projects
+
+### 📱 Mobile Apps
+
+#### [Pokédex](https://github.com/usmanbutt-dev/Pokedex) — React Native + Expo
+
+> A production-quality Pokédex app built TypeScript-first with Expo Router. The goal was to ship something that feels complete — not a tutorial clone.
+
+**What makes it worth reading:**
+- **Pagination + infinite scroll** — loads 20 Pokémon at a time, fetches the next page as you reach the bottom
+- **Smart search fallback** — filters the loaded list as you type; if the Pokémon isn't loaded yet, falls back to a direct PokéAPI lookup by name so results are never limited to what's on screen
+- **Type-aware dynamic theming** — every card and detail screen header recolours based on the Pokémon's primary type
+- **Custom caching layer** — built an AsyncStorage cache with a 24h TTL after reading PokéAPI's fair-use policy; the app doesn't re-fetch data it already has
+- **Animated tab switcher** — About / Base Stats tabs driven by `Animated.Value`, underline follows swipe gestures smoothly
+- **Race condition handling** — `useRef` guards async callbacks so stale state can't clobber in-flight fetches
+- **Safe area aware** — handles notches and varying screen sizes correctly across devices
+
+`React Native` `Expo` `TypeScript` `Expo Router` `AsyncStorage` `PokéAPI`
+
+---
 
 ### 🤖 AI & Developer Tools
 
